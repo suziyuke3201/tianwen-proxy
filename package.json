@@ -1,10 +1,10 @@
 {
-  "名称": "天问代理","name": "tianwen-proxy",
-  "版本": "1.0.0""version": "1.0.0",
-  "脚本": {"scripts": {
-    "start": "node server.js""start": "node server.js"
-  }},
-  "依赖项": {"dependencies": {
-    "ws": "^8.16.0""ws": "^8.16.0"
-  }}
+  "name": "tianwen-proxy",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
 }
